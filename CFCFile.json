@@ -2887,7 +2887,7 @@
         },
         {
           "abbreviation" : "UT",
-          "prestige" : "90",
+          "prestige" : "80",
           "hexColor" : "#BF5700",
           "offCoordinator" : {
             "contractLength" : "1",
