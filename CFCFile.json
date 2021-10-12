@@ -1132,7 +1132,7 @@
         }
       ],
       "confFullName" : "Big 10",
-      "confPrestige" : "90",
+      "confPrestige" : "75",
       "confName" : "B1G"
     },
     {
@@ -2272,7 +2272,7 @@
         }
       ],
       "confFullName" : "Big 12",
-      "confPrestige" : "85",
+      "confPrestige" : "60",
       "confName" : "XII"
     },
     {
@@ -3387,7 +3387,7 @@
         }
       ],
       "confFullName" : "Southwest",
-      "confPrestige" : "85",
+      "confPrestige" : "95",
       "confName" : "SWC"
     },
     {
