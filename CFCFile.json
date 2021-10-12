@@ -570,7 +570,7 @@
       "confTeams" : [
         {
           "abbreviation" : "OSU",
-          "prestige" : "95",
+          "prestige" : "70",
           "hexColor" : "#666666",
           "offCoordinator" : {
             "contractLength" : "2",
