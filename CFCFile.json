@@ -45,9 +45,9 @@
             "contractLength" : "6",
             "startYear" : "2021",
             "age" : "69",
-            "ratOff" : "95",
+            "ratOff" : "80",
             "cumulativePrestige" : "100",
-            "ratDef" : "95",
+            "ratDef" : "85",
             "homeState" : "Alaska",
             "ratPot" : "95",
             "hometown" : "Mesquite",
@@ -2279,7 +2279,7 @@
       "confTeams" : [
         {
           "abbreviation" : "UO",
-          "prestige" : "90",
+          "prestige" : "79",
           "hexColor" : "#154733",
           "offCoordinator" : {
             "contractLength" : "3",
